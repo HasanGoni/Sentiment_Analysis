@@ -9,7 +9,7 @@ is the notebook where just tried to see the data and visulaize using umap
 here modelling is done and it is the final notebook
 
 
-## uitls
+## utils
 
 - This folder contains different utility function script
 e.g. metrics_utils.py is the script file creating different metrics in validation dataset
